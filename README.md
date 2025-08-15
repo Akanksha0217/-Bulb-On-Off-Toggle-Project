@@ -13,6 +13,5 @@ A simple web project that toggles a bulb **ON** and **OFF** using HTML, CSS, and
 - **JavaScript** – Handles the toggle functionality.
 
 ## 📷 Demo
-![Bulb Off](./images/bulb-off.png)
-![Bulb On](./images/bulb-on.png)
+https://bucolic-semolina-0741d2.netlify.app/
 
